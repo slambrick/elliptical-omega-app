@@ -1,0 +1,1 @@
+This app uses the method for calculating the solid angle subtended by an ellipse from [John T. Conway 2010](https://doi.org/10.1016/j.nima.2009.11.075). The variables are defined in the diagram below; a and b are the semi-axes of the ellipse while p, q, and h define the distance from the point of interest to the centre of the ellipse.
